@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-empreeduca",
+  "version": "1.0.0",
+  "description": "Exemplos JavaScript em NodeJS",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "nodejs",
+    "js",
+    "javascript",
+    "web",
+    "api",
+    "node",
+    "api"
+  ],
+  "author": "Glaucio Daniel",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
